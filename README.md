@@ -1,9 +1,9 @@
 # Software Requirements Specification
 ## For  \<project name\>
-Version 0.0.0
-Prepared by \<authors\>  
+Version 0.0.0  
 \<organization\>  
-\<date created\>, \<date last edited\>
+\<date created\>, \<date last edited\>  
+Prepared by \<authors\>  
 
 Table of Contents
 =================
