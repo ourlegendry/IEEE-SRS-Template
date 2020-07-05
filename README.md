@@ -1,9 +1,6 @@
-# IEEE-SRS-Template
-IEEE System Requirements Specification Template
-
 # Software Requirements Specification
 ## For  \<project name\>
-Version 1.0 approved  
+Version 0.0.0
 Prepared by \<authors\>  
 \<organization\>  
 \<date created\>, \<date last edited\>
