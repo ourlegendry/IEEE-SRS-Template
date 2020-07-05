@@ -11,7 +11,7 @@ Prepared by \<author\>
 Table of Contents
 =================
   * [Revision History](#revision-history)
-  * [Introduction](#1-introduction)
+  * [Introduction](#introduction)
     * 1.1 [Purpose](#11-purpose)
     * 1.2 [Document Conventions](#12-document-conventions)
     * 1.3 [Intended Audience and Reading Suggestions](#13-intended-audience-and-reading-suggestions)
