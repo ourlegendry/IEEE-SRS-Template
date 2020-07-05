@@ -1,4 +1,4 @@
-# IEEE-Template
+# IEEE-SRS-Template
 IEEE System Requirements Specification Template
 
 # Software Requirements Specification
