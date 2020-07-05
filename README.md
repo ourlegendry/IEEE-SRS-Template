@@ -6,7 +6,7 @@ IEEE System Requirements Specification Template
 Version 1.0 approved  
 Prepared by \<authors\>  
 \<organization\>  
-\<date created\>  
+\<date created\>, \<date last edited\>
 
 Table of Contents
 =================
