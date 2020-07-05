@@ -54,7 +54,7 @@ Table of Contents
 |      |         |                     |           |
 |      |         |                     |           |
 
-## 1. Introduction
+## Introduction
 ### 1.1 Purpose 
 > Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.
 
